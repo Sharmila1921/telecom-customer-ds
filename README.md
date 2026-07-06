@@ -53,9 +53,6 @@ This project focuses on analyzing telecom customer data and building a Machine L
 * Tune hyperparameters for better accuracy.
 * Deploy the model using Streamlit or Flask.
 
-## 📸 Sample Output
-
-(Add screenshots of your dataset, visualizations, confusion matrix, or prediction results here.)
 
 ## 👩‍💻 Author
 
@@ -66,3 +63,7 @@ Aspiring Data Analyst | Data Science Enthusiast | Java Developer | IoT Enthusias
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
+sample output :
+<img width="1227" height="846" alt="image" src="https://github.com/user-attachments/assets/8c582aa8-f509-42e3-9cc3-967b9fdeb2db" />
+
